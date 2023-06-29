@@ -1,0 +1,16 @@
+name: ${project.name}
+main: tech.ice.plugins.HololivePlugin.paper.Main
+author: Koyorice_
+version: ${project.version}
+api-version: 1.19
+commands:
+  renew:
+    usage: /renew
+  delete:
+    usage: /delete
+  fixnpc:
+    usage: /fixnpc
+  switch:
+    usage: /switch
+  maxcheck:
+    usage: /maxcheck

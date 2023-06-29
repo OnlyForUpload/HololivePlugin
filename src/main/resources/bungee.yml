@@ -1,0 +1,4 @@
+name: ${project.name}
+main: tech.ice.plugins.HololivePlugin.bungee.Main
+author: Koyorice_
+version: ${project.version}
